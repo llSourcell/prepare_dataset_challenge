@@ -17,6 +17,8 @@ Run the following in terminal
 $ python softmax.py --train simdata/linear_data_train.csv --test simdata/linear_data_eval.csv --num_epochs 5 --verbose True
 ```
 
+Add your own test data to test the model out.
+
 ##Challenge
 The challenge for this video is to create a pokemon classifier by their type 1 (i.e fire, water, grass, etc.) using [this](https://www.kaggle.com/abcsds/pokemon) pokemon dataset on Kaggle. Post your github link in the comments and i'll announce the winner in the next video. Due date is December 22nd at Noon PST.
 
