@@ -15,7 +15,6 @@ This is the code for [this](https://youtu.be/0xVqLJe9_CY) video by Siraj on Yout
 Run the following in terminal
 ```
 $ python softmax.py --train simdata/linear_data_train.csv --test simdata/linear_data_eval.csv --num_epochs 5 --verbose True
-Initialized!
 ```
 
 ##Challenge
