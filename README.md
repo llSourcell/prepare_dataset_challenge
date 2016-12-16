@@ -2,7 +2,7 @@
 
 #Overview
 
-This is the code for [this](https://youtu.be/0xVqLJe9_CY) video by Siraj on Youtube. The brainscan dataset is entirely fictional, but serves as a good example on how to prepare a dataset. Real examples do exist but, too many features to sift through for a short video. 
+This is the code for [this](https://youtu.be/0xVqLJe9_CY) video by Siraj on Youtube. The brainscan dataset is entirely fictional, but serves as a good example on how to prepare a dataset. Real examples do [exist](https://openfmri.org/dataset/) but, too many features to sift through for a short video. 
 
 ##Dependencies
 
