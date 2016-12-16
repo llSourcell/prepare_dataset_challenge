@@ -127,7 +127,6 @@ def main(argv=None):
             print
             
         print "Accuracy:", accuracy.eval(feed_dict={x: test_data, y_: test_labels})
-        print "Prediction for test subject: Meditating "
 
     
 if __name__ == '__main__':
